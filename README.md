@@ -4,9 +4,9 @@
 
 ## Feature Support
 
-[x] Source selection
-[x] Volume control
-[x] Turn off
+* [x] Source selection
+* [x] Volume control
+* [x] Turn off
 
 As of September 2022, this is a side project with features selected purely based on my own needs/interests. PRs may be submitted for additional capabilities.
 
